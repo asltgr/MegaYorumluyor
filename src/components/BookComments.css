@@ -1,0 +1,87 @@
+.book-comments {
+    background-color: #d4edda;
+    border: 2px solid #c3e6cb;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .book-comments h2 {
+    color: #155724;
+  }
+  
+  .book-image {
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .book-details {
+    margin-left: 20px;
+  }
+  
+  .comment-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .comment-item {
+    border-bottom: 1px solid #c3e6cb;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .comment-header {
+    color: #155724;
+    font-weight: bold;
+  }
+  
+  .comment-content {
+    margin-top: 10px;
+    color: #000;
+  }
+  
+  .comment-rating {
+    margin-top: 10px;
+  }
+  
+  .toggle-spoiler-button {
+    color: #155724;
+  }
+  
+  .interaction-options {
+    margin-top: 20px;
+  }
+  
+  textarea {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  #spoilerCheckbox {
+    margin-right: 5px;
+  }
+  
+  .rating-options {
+    margin-top: 10px;
+  }
+  
+  .rating-options span {
+    margin-right: 5px;
+  }
+  
+  .rating-options label {
+    margin-right: 10px;
+  }
+  
+  .primary-button {
+    background-color: #218838;
+    border-color: #218838;
+  }
+  
+  .primary-button:hover {
+    background-color: #1e7e34;
+    border-color: #1e7e34;
+  }
+  
